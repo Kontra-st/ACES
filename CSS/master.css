@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Gotham';
+  src: url("../fonts/GothamLight.ttf") format("truetype");
+}
+
+*{
+	overflow: hidden;
+	font-family: "Gotham"
+}
+
+.Basic{
+	text-align: center;
+	height: 100vh;
+	width: 100vw;
+	line-height: 45vh;
+	vertical-align: middle;
+}
